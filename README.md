@@ -12,10 +12,11 @@ The official page for this course can be found in https://learnpythonthehardway.
 We will cover the setup of the environment as per https://learnpythonthehardway.org/book/ex0.html.
 
 ```bash
-$ python --version[Exercise 1](https://learnpythonthehardway.org/book/ex1.html)
+$ python --version
 Python 2.7.8
 ```
 
 ### Exercise 1: A Good First Program
 
 This [Exercise 1](https://learnpythonthehardway.org/book/ex1.html) is about learning how to use `print` in is most basic form.
+
