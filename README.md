@@ -16,6 +16,7 @@ $ python --version
 Python 2.7.8
 ```
 
+
 ### Exercise 1: A Good First Program
 
 This [Exercise 1](https://learnpythonthehardway.org/book/ex1.html) is about learning how to use `print` in is most basic form.
@@ -24,3 +25,7 @@ This [Exercise 1](https://learnpythonthehardway.org/book/ex1.html) is about lear
 
 On [Exercise 2](https://learnpythonthehardway.org/book/ex2.html) we will learn how comments works.
 
+
+### Exercixe 3: Numbers and Math
+
+Learning on [Exercise 3](https://learnpythonthehardway.org/book/ex3.html) the symbols used by python to make math operations on numbers.
