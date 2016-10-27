@@ -26,6 +26,11 @@ This [Exercise 1](https://learnpythonthehardway.org/book/ex1.html) is about lear
 On [Exercise 2](https://learnpythonthehardway.org/book/ex2.html) we will learn how comments works.
 
 
-### Exercixe 3: Numbers and Math
+### Exercise 3: Numbers and Math
 
 Learning on [Exercise 3](https://learnpythonthehardway.org/book/ex3.html) the symbols used by python to make math operations on numbers.
+
+
+### Exercise 4: Variables and Names
+
+Let's see in [Exercise 4](https://learnpythonthehardway.org/book/ex4.html) how Python deals with variables and their names.
