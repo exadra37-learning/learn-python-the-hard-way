@@ -34,3 +34,8 @@ Learning on [Exercise 3](https://learnpythonthehardway.org/book/ex3.html) the sy
 ### Exercise 4: Variables and Names
 
 Let's see in [Exercise 4](https://learnpythonthehardway.org/book/ex4.html) how Python deals with variables and their names.
+
+
+### Exercise 5: More Variables and Printing
+
+A more advance use of Variables with Print will be the focus on [Exercise 4](https://learnpythonthehardway.org/book/ex4.html) where we will learn how to put variables content inside a string.
