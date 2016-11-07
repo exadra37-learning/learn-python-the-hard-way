@@ -1,3 +1,9 @@
+# Exercise 5
+#
+# Drill 1:
+#   Change all the variables so there is no my_ in front of each one. Make sure you change the name everywhere, not just
+#   where you use = to set them.
+
 author_name = 'Zed A. Shaw'
 author_age = 35 # not a lie
 author_height_in_inches = 74 # a better variable name dispenses the previous comment on this line in ex5.py
