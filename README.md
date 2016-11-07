@@ -38,4 +38,9 @@ Let's see in [Exercise 4](https://learnpythonthehardway.org/book/ex4.html) how P
 
 ### Exercise 5: More Variables and Printing
 
-A more advance use of Variables with Print will be the focus on [Exercise 4](https://learnpythonthehardway.org/book/ex4.html) where we will learn how to put variables content inside a string.
+A more advance use of Variables with Print will be the focus on [Exercise 5](https://learnpythonthehardway.org/book/ex5.html) where we will learn how to put variables content inside a string.
+
+
+### Exercise 6: Strings and Text
+
+We have been using __Strings__ but they have not been formally introduced yet and [Exercise 6](https://learnpythonthehardway.org/book/ex6.html) will explain them and show some more complex use cases.
