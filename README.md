@@ -19,7 +19,8 @@ Python 2.7.8
 
 ### Exercise 1: A Good First Program
 
-This [Exercise 1](https://learnpythonthehardway.org/book/ex1.html) is about learning how to use `print` in is most basic form.
+This [Exercise 1](https://learnpythonthehardway.org/book/ex1.html) is about learning how to use `print` in is most basic
+ form.
 
 ### Exercise 2: Comments and Pounds Characters
 
@@ -28,19 +29,28 @@ On [Exercise 2](https://learnpythonthehardway.org/book/ex2.html) we will learn h
 
 ### Exercise 3: Numbers and Math
 
-Learning on [Exercise 3](https://learnpythonthehardway.org/book/ex3.html) the symbols used by python to make math operations on numbers.
+Learning on [Exercise 3](https://learnpythonthehardway.org/book/ex3.html) the symbols used by python to make math
+ operations on numbers.
 
 
 ### Exercise 4: Variables and Names
 
-Let's see in [Exercise 4](https://learnpythonthehardway.org/book/ex4.html) how Python deals with variables and their names.
+Let's see in [Exercise 4](https://learnpythonthehardway.org/book/ex4.html) how Python deals with variables and their
+ names.
 
 
 ### Exercise 5: More Variables and Printing
 
-A more advance use of Variables with Print will be the focus on [Exercise 5](https://learnpythonthehardway.org/book/ex5.html) where we will learn how to put variables content inside a string.
+A more advance use of Variables with Print will be the focus on [Exercise 5](https://learnpythonthehardway.org/book/ex5.html)
+ where we will learn how to put variables content inside a string.
 
 
 ### Exercise 6: Strings and Text
 
-We have been using __Strings__ but they have not been formally introduced yet and [Exercise 6](https://learnpythonthehardway.org/book/ex6.html) will explain them and show some more complex use cases.
+We have been using __Strings__ but they have not been formally introduced yet and [Exercise 6](https://learnpythonthehardway.org/book/ex6.html)
+ will explain them and show some more complex use cases.
+
+
+### Exercise 7: More Printing
+
+[Exercise 7](https://learnpythonthehardway.org/book/ex7.html) is only about to practise what we have learned until now.
