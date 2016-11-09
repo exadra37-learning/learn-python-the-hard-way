@@ -59,3 +59,8 @@ We have been using __Strings__ but they have not been formally introduced yet an
 ### Exercise 8: Printing Printing
 
 On this [Exercise 8](https://learnpythonthehardway.org/book/ex8.html) we will continue to practise the use of command `print` and the formatters we can use with it.
+
+
+### Exercise 9: Printing Printing Printing
+
+Continue to practise on [Exercise 9](https://learnpythonthehardway.org/book/ex9.html) the use of command `print` and formatters with different examples, so that we can grasp it better.
